@@ -1,6 +1,6 @@
 # Greddiit
 
-## A reddit clone
+## A reddit clone (WIP)
 
 Internet connection is necessary
 
